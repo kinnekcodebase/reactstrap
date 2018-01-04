@@ -94,8 +94,8 @@
     "reactstrap-tether": "1.3.4"
   },
   "peerDependencies": {
-    "react": "^0.14.9 || ^15.3.0",
-    "react-dom": "^0.14.9 || ^15.3.0",
+    "react": "^0.14.9 || ^16.2.0",
+    "react-dom": "^0.14.9 || ^16.2.0",
     "react-transition-group": "^1.1.2"
   },
   "devDependencies": {
@@ -126,7 +126,7 @@
     "holderjs": "^2.9.3",
     "json-loader": "^0.5.4",
     "raw-loader": "^0.5.1",
-    "react": "^15.3.0",
+    "react": "^16.2.0",
     "react-addons-test-utils": "^15.3.0",
     "react-dom": "^15.3.0",
     "react-helmet": "^5.0.3",
